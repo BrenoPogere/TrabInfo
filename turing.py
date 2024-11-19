@@ -4,17 +4,17 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Entre 1936 e 1938, estudou matemática e criptografia em Princeton, local em que obteve seu PhD"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "A sua maior contribuição, foi a Maquina de Turing, tendo outros projetos como: Sistema Bombe, Conceito de Jogo aa imitaçao, Bases de computação moderna, e etc."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Alan Turing escreveu vários artigos, entre os quais: \nUm artigo publicado na revista IEEE Annals of the History of Computing que revisa fontes históricas e apresenta evidências de que Turing variou o design de seus testes de inteligência. \n Um artigo acadêmico de 1936 em que Turing desenvolve uma máquina automática que podia ler e escrever diferentes números e símbolos. \nUm artigo em que Turing apresenta um modelo teórico de computador e propõe o jogo da imitação, que hoje é conhecido como Teste de Turing. "
     return mensagem
 
 
