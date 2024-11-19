@@ -19,7 +19,7 @@ def artigos():
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "'Eu acredito que, às vezes, são as pessoas que ninguém espera nada, que fazem as coisas que ninguém consegue imaginar'\n'Um computador mereceria ser chamado de inteligente se pudesse enganar um humano fazendo-o acreditar que era humano'\n 'Isto é apenas uma antecipação do que está para vir, e apenas a sombra do que vai ser' "
     return mensagem
 
 
